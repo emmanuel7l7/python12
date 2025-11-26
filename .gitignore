@@ -1,5 +1,6 @@
 # Conda temporary files
 .conda/
+anaconda_projects/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
